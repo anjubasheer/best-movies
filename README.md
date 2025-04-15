@@ -1,2 +1,2 @@
 # best-movies
-recommending movies on basis for the movies choosen (Machine Learning Project)
+📽 🎬 A simple Movie Recommendation System built with Streamlit, Pandas, and TMDb API to suggest movies based on user preferences.
